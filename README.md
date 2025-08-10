@@ -1,45 +1,48 @@
-# TripAdvisor_Clone
-TripAdvisor Landing Page — HTML & CSS Clone
-A lightweight, responsive clone of the TripAdvisor home/landing layout built with just HTML and CSS (no frameworks, no JS by default). Great for practising layout, typography, and responsive UI patterns.
+🌍 TripAdvisor Landing Page — HTML & CSS Clone
+A lightweight, responsive clone of the TripAdvisor home/landing layout built with pure HTML and CSS — no frameworks, no JavaScript (by default).
 
-Preview
-Hero: “Where to?” heading, category chips, search pill
+Perfect for practising layout design, typography, responsive behaviour, and modern CSS techniques.
 
-Promo banner: green split card with image + CTA
+📸 Preview
+Includes:
+Hero Section – “Where to?” heading, category chips, and search pill
 
-Awards carousel: horizontally scrollable cards with gradient labels
+Promo Banner – Green split card with image + call-to-action
 
-Header: logo, primary nav, currency/language, sign‑in pill
+Awards Carousel – Horizontally scrollable cards with gradient labels
 
-Search pill with icon + rounded “Search” button
+Header – Logo, primary nav, currency/language, and sign-in pill
 
-Fixed‑width content container that stops growing on large screens (margins expand instead) to match TripAdvisor behaviour
+Search Pill – Icon + rounded “Search” button
 
-Image cards with rounded corners & bottom gradient overlay
+Responsive Design – Mobile-first layout and breakpoints
 
-CSS‑only carousel: horizontal scroll + snap points (optional arrow links via anchor jump)
+CSS-Only Carousel – Horizontal scroll + snap points (optional arrow links via anchor jump)
 
-Mobile‑first, responsive breakpoints
+Fixed-Width Content Container – Stops growing on large screens; margins expand instead
 
-Tech Stack
+Image Cards – Rounded corners & bottom gradient overlay
+
+🛠 Tech Stack
 HTML5
 
-CSS3 (Flexbox, scroll-snap, custom properties)
+CSS3 — Flexbox, scroll-snap, custom properties
 
-Getting Started
-1) Clone or download
+🚀 Getting Started
+1️⃣ Clone or Download
 bash
 Copy
 Edit
 git clone https://github.com/your-username/tripadvisor-html-css-clone.git
 cd tripadvisor-html-css-clone
-2) Open locally
-Double‑click index.html, or
 
-Use a lightweight server for live reload:
+📐 Layout Behaviour
+Container Max Width: Matches TripAdvisor’s approach — content width is capped, and margins increase on larger screens.
 
-VS Code: install “Live Server” → right‑click index.html → Open with Live Server
+Responsive Breakpoints:
 
-Python: python -m http.server 8000 then open http://localhost:8000
+Desktop: Full layout with fixed-width container
 
+Tablet: Adjusted category/chip layout, carousel adapts
 
+Mobile: Single-column content flow
