@@ -1,9 +1,9 @@
-🌍 TripAdvisor Landing Page — HTML & CSS Clone
+#🌍 TripAdvisor Landing Page — HTML & CSS Clone
 A lightweight, responsive clone of the TripAdvisor home/landing layout built with pure HTML and CSS — no frameworks, no JavaScript (by default).
 
 Perfect for practising layout design, typography, responsive behaviour, and modern CSS techniques.
 
-📸 Preview
+#📸 Preview
 Includes:
 Hero Section – “Where to?” heading, category chips, and search pill
 
@@ -23,20 +23,20 @@ Fixed-Width Content Container – Stops growing on large screens; margins expand
 
 Image Cards – Rounded corners & bottom gradient overlay
 
-🛠 Tech Stack
+##🛠 Tech Stack
 HTML5
 
 CSS3 — Flexbox, scroll-snap, custom properties
 
-🚀 Getting Started
-1️⃣ Clone or Download
+##🚀 Getting Started
+##1️⃣ Clone or Download
 bash
 Copy
 Edit
 git clone https://github.com/your-username/tripadvisor-html-css-clone.git
 cd tripadvisor-html-css-clone
 
-📐 Layout Behaviour
+##📐 Layout Behaviour
 Container Max Width: Matches TripAdvisor’s approach — content width is capped, and margins increase on larger screens.
 
 Responsive Breakpoints:
