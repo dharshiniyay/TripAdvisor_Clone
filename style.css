@@ -457,10 +457,16 @@
   position: absolute;
   right: 10px;
   top: 10px;
+  cursor: pointer;
 }
 
 .award-card--2 .circle i {
   font-size: 20px;
+}
+
+.award-card--2 .circle i:hover {
+  font-size: 20px;
+  color:#00eb5b;
 }
 
 .award-card--2 .label {
